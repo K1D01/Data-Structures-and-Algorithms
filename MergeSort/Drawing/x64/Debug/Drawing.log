@@ -1,0 +1,7 @@
+﻿  Drawing.cpp
+C:\Users\trung\OneDrive\Máy tính\Merge\Drawing\graphics.h(164,13): warning C4273: 'SetConsoleMode': inconsistent dll linkage
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\consoleapi.h(114,1): message : see previous definition of 'SetConsoleMode'
+C:\Users\trung\OneDrive\Máy tính\Merge\Drawing\graphics.h(257,16): warning C4244: '=': conversion from 'double' to 'SHORT', possible loss of data
+C:\Users\trung\OneDrive\Máy tính\Merge\Drawing\graphics.h(258,16): warning C4244: '=': conversion from 'double' to 'SHORT', possible loss of data
+C:\Users\trung\OneDrive\Máy tính\Merge\Drawing\Drawing.cpp(110,8): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Drawing.vcxproj -> C:\Users\trung\OneDrive\Máy tính\Merge\x64\Debug\Drawing.exe
