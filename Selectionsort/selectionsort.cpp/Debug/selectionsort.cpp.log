@@ -1,6 +1,0 @@
-﻿  selectionsort.cpp
-C:\Users\ADMIN\source\repos\selectionsort.cpp\selectionsort.cpp\graphics.h(166,2): warning C4273: 'SetConsoleMode': inconsistent dll linkage
-C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\consoleapi.h(114,1): message : see previous definition of 'SetConsoleMode'
-C:\Users\ADMIN\source\repos\selectionsort.cpp\selectionsort.cpp\graphics.h(257,16): warning C4244: '=': conversion from 'double' to 'SHORT', possible loss of data
-C:\Users\ADMIN\source\repos\selectionsort.cpp\selectionsort.cpp\graphics.h(258,16): warning C4244: '=': conversion from 'double' to 'SHORT', possible loss of data
-  selectionsort.cpp.vcxproj -> C:\Users\ADMIN\source\repos\selectionsort.cpp\Debug\SelectionSort.exe
