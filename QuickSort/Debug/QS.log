@@ -1,6 +1,0 @@
-﻿  quick.cpp
-E:\học tập\blabla\QS\QS\graphics.h(166,2): warning C4273: 'SetConsoleMode': inconsistent dll linkage
-C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\consoleapi.h(114,1): message : see previous definition of 'SetConsoleMode'
-E:\học tập\blabla\QS\QS\graphics.h(257,16): warning C4244: '=': conversion from 'double' to 'SHORT', possible loss of data
-E:\học tập\blabla\QS\QS\graphics.h(258,16): warning C4244: '=': conversion from 'double' to 'SHORT', possible loss of data
-  QS.vcxproj -> E:\học tập\blabla\QS\Debug\QS.exe
